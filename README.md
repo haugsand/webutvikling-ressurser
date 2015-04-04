@@ -9,6 +9,11 @@ Nyttige lenker til ressurser om webutvikling
 ## Kart
 
 * https://github.com/Turfjs/turf - A modular geospatial engine written in JavaScript
+* 
+
+## Javascript
+
+* http://learnjsdata.com/ - The basics of manipulating data using JavaScript in the browser
 
 ## ECMAScript 6
 
