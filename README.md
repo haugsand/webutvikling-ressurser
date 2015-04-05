@@ -7,19 +7,27 @@ Nyttige lenker til ressurser om webutvikling
 * http://connoratherton.com/loaders - Delightful and performance-focused pure css loading animations
 * http://www.flaticon.com/packs/maps - Map icons
 * http://tympanus.net/codrops/2015/02/11/subtle-click-feedback-effects/ - A set of subtle effects for click or touch interactions
+* http://www.smashingmagazine.com/2012/11/03/free-glyph-set-entypo-eps-pdf-psd-web-font/ - Extended Entypo Glyph Set
 
 
 ## Inspirasjon
 
 * http://tympanus.net/codrops/category/playground/ - In this category you will find experiments, plugins and articles related to web development and programming.
+* http://www.informationisbeautiful.net/ - Ideas, issues, knowledge, data — visualized!
 
 ## Design
 
 * https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96 - 7 Rules for Creating Gorgeous UI
 
+## Responsive design
+
+* http://mediaqueri.es/ - Designeksempler
+
 ## Kart
 
 * https://github.com/Turfjs/turf - A modular geospatial engine written in JavaScript
+* http://www.liedman.net/2014/07/02/leaflet-bike-route-planner/ - Building a web app with Leaflet as foundation
+* https://github.com/mourner/rbush - RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
 
 ## Javascript
 
@@ -37,3 +45,8 @@ Nyttige lenker til ressurser om webutvikling
 ## ECMAScript 6
 
 * https://leanpub.com/understandinges6/read/ - Understanding ECMAScript 6
+
+## REST
+
+* http://data.gov.uk/resources/uris - Creating URIs
+* https://signalvnoise.com/posts/3373-getting-hyper-about-hypermedia-apis - Getting hyper about hypermedia APIs
