@@ -23,6 +23,11 @@ Nyttige lenker til ressurser om webutvikling
 
 * http://mediaqueri.es/ - Designeksempler
 
+## Typografi og fonter
+
+* http://typecast.com/blog/a-more-modern-scale-for-web-typography - A More Modern Scale for Web Typography
+* http://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html - 20 Best Web Fonts from Google Web Fonts and @font-face
+
 ## Kart
 
 * https://github.com/Turfjs/turf - A modular geospatial engine written in JavaScript
@@ -35,6 +40,9 @@ Nyttige lenker til ressurser om webutvikling
 * https://github.com/airbnb/javascript/blob/master/README.md - Airbnb JavaScript Style Guide
 * https://gist.github.com/ericelliott/d576f72441fc1b27dace - Essential JavaScript Links
 * http://www.nodebeginner.org/ - The Node Beginner Book
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript - A re-introduction to JavaScript
+* http://www.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript/ - An Introduction To Full-Stack JavaScript
+* http://www.smashingmagazine.com/2012/08/17/javascript-events-responding-user/ - JavaScript Events And Responding To The User
 
 ## Angularjs
 
@@ -50,3 +58,11 @@ Nyttige lenker til ressurser om webutvikling
 
 * http://data.gov.uk/resources/uris - Creating URIs
 * https://signalvnoise.com/posts/3373-getting-hyper-about-hypermedia-apis - Getting hyper about hypermedia APIs
+
+## Divese
+
+* https://signalvnoise.com/posts/3855-37-pieces-of-life-changing-business-advice-youll-have-to-see-to-believe - 37 pieces of life-changing business advice you'll have to see to believe
+
+# Verktøy
+
+* https://svbtle.com/ - A blogging platform designed to help you think.
