@@ -59,10 +59,10 @@ Nyttige lenker til ressurser om webutvikling
 * http://data.gov.uk/resources/uris - Creating URIs
 * https://signalvnoise.com/posts/3373-getting-hyper-about-hypermedia-apis - Getting hyper about hypermedia APIs
 
-## Divese
+## Diverse
 
 * https://signalvnoise.com/posts/3855-37-pieces-of-life-changing-business-advice-youll-have-to-see-to-believe - 37 pieces of life-changing business advice you'll have to see to believe
 
-# Verktøy
+## Verktøy
 
 * https://svbtle.com/ - A blogging platform designed to help you think.
