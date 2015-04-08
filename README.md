@@ -9,6 +9,9 @@ Nyttige lenker til ressurser om webutvikling
 * http://tympanus.net/codrops/2015/02/11/subtle-click-feedback-effects/ - A set of subtle effects for click or touch interactions
 * http://www.smashingmagazine.com/2012/11/03/free-glyph-set-entypo-eps-pdf-psd-web-font/ - Extended Entypo Glyph Set
 
+## Animasjoner og transitions
+
+* http://www.greywyvern.com/?post=337 - CSS3 transitions using visibility and delay
 
 ## Inspirasjon
 
