@@ -38,6 +38,7 @@ Nyttige lenker til ressurser om webutvikling
 ## Responsive design
 
 * http://mediaqueri.es/ - Designeksempler
+* https://developer.chrome.com/multidevice/webview/pixelperfect - Pixel-Perfect UI in the WebView
 
 ## Typografi og fonter
 
@@ -60,12 +61,14 @@ Nyttige lenker til ressurser om webutvikling
 * http://www.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript/ - An Introduction To Full-Stack JavaScript
 * http://www.smashingmagazine.com/2012/08/17/javascript-events-responding-user/ - JavaScript Events And Responding To The User
 * http://eloquentjavascript.net/ - Eloquent JavaScript
+* http://youmightnotneedjquery.com/ - You Might Not Need jQuery
 
 ## Angularjs
 
 * http://hueypetersen.com/posts/2013/06/24/typeahead-with-angular/ - Building a Typeahead Directive with AngularJS
 * https://www.airpair.com/angularjs/posts/angularjs-tutorial - AngularJS Tutorial: A Comprehensive 10,000 Word Guide
 * https://www.airpair.com/angularjs/posts/top-10-mistakes-angularjs-developers-make - The Top 10 Mistakes AngularJS Developers Make
+* https://github.com/jmcunningham/AngularJS-Learning - AngularJS-Learning
 
 ## ECMAScript 6
 
@@ -84,3 +87,4 @@ Nyttige lenker til ressurser om webutvikling
 
 * https://svbtle.com/ - A blogging platform designed to help you think.
 * http://caniuse.com/ - Can I use ...
+* https://ghost.org/ - Ghost blogging platform
