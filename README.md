@@ -9,10 +9,22 @@ Nyttige lenker til ressurser om webutvikling
 * http://tympanus.net/codrops/2015/02/11/subtle-click-feedback-effects/ - A set of subtle effects for click or touch interactions
 * http://www.smashingmagazine.com/2012/11/03/free-glyph-set-entypo-eps-pdf-psd-web-font/ - Extended Entypo Glyph Set
 
+
+## Farger
+
+* http://color.hailpixel.com/ - Color
+* http://colorbrewer2.org/ - ColorBrewer
+
+## Media
+
+* http://www.html5rocks.com/en/tutorials/getusermedia/intro/ - Capturing Audio & Video in HTML5
+
+
 ## Animasjoner og transitions
 
 * http://www.greywyvern.com/?post=337 - CSS3 transitions using visibility and delay
 * https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_transitions - Using CSS transitions
+
 
 ## Inspirasjon
 
@@ -47,6 +59,7 @@ Nyttige lenker til ressurser om webutvikling
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript - A re-introduction to JavaScript
 * http://www.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript/ - An Introduction To Full-Stack JavaScript
 * http://www.smashingmagazine.com/2012/08/17/javascript-events-responding-user/ - JavaScript Events And Responding To The User
+* http://eloquentjavascript.net/ - Eloquent JavaScript
 
 ## Angularjs
 
@@ -70,3 +83,4 @@ Nyttige lenker til ressurser om webutvikling
 ## Verktøy
 
 * https://svbtle.com/ - A blogging platform designed to help you think.
+* http://caniuse.com/ - Can I use ...
