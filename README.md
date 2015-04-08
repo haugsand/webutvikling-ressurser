@@ -12,6 +12,7 @@ Nyttige lenker til ressurser om webutvikling
 ## Animasjoner og transitions
 
 * http://www.greywyvern.com/?post=337 - CSS3 transitions using visibility and delay
+* https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_transitions - Using CSS transitions
 
 ## Inspirasjon
 
