@@ -62,6 +62,8 @@ Nyttige lenker til ressurser om webutvikling
 * http://www.smashingmagazine.com/2012/08/17/javascript-events-responding-user/ - JavaScript Events And Responding To The User
 * http://eloquentjavascript.net/ - Eloquent JavaScript
 * http://youmightnotneedjquery.com/ - You Might Not Need jQuery
+* http://diveintohtml5.info/geolocation.html - Geolocation
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript - MDN JavaScript
 
 ## Angularjs
 
@@ -69,6 +71,7 @@ Nyttige lenker til ressurser om webutvikling
 * https://www.airpair.com/angularjs/posts/angularjs-tutorial - AngularJS Tutorial: A Comprehensive 10,000 Word Guide
 * https://www.airpair.com/angularjs/posts/top-10-mistakes-angularjs-developers-make - The Top 10 Mistakes AngularJS Developers Make
 * https://github.com/jmcunningham/AngularJS-Learning - AngularJS-Learning
+* https://github.com/toddmotto/angularjs-styleguide - Opinionated AngularJS styleguide for teams
 
 ## ECMAScript 6
 
@@ -82,6 +85,12 @@ Nyttige lenker til ressurser om webutvikling
 ## Diverse
 
 * https://signalvnoise.com/posts/3855-37-pieces-of-life-changing-business-advice-youll-have-to-see-to-believe - 37 pieces of life-changing business advice you'll have to see to believe
+* https://www.gov.uk/design-principles - Government Digital Service Design Principles
+
+
+## Prosess
+
+* http://www.smashingmagazine.com/2012/11/06/design-spikes-fit-big-picture-ux-agile-development/ - Fitting Big-Picture UX Into Agile Development
 
 ## Verktøy
 
