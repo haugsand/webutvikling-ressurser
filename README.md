@@ -31,14 +31,24 @@ Nyttige lenker til ressurser om webutvikling
 * http://tympanus.net/codrops/category/playground/ - In this category you will find experiments, plugins and articles related to web development and programming.
 * http://www.informationisbeautiful.net/ - Ideas, issues, knowledge, data — visualized!
 
+
 ## Design
 
 * https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96 - 7 Rules for Creating Gorgeous UI
+
 
 ## Responsive design
 
 * http://mediaqueri.es/ - Designeksempler
 * https://developer.chrome.com/multidevice/webview/pixelperfect - Pixel-Perfect UI in the WebView
+
+
+## Mobile
+
+* http://www.joshmorony.com/7-lessons-from-3-years-of-html5-mobile-application-development/ - 7 Lessons from 3 Years of HTML5 Mobile Application Development
+* http://phonegap.com/ - PhoneGap is a free and open source framework that allows you to create mobile apps using standardized web APIs for the platforms you care about.
+* http://ionicframework.com/ - The beautiful, open source front-end SDK for developing hybrid mobile apps with HTML5.
+* https://www.sencha.com/products/touch/ - Create native-looking HTML5 apps using JavaScript
 
 ## Typografi og fonter
 
