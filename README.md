@@ -26,6 +26,14 @@ Nyttige lenker til ressurser om webutvikling
 * https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_transitions - Using CSS transitions
 
 
+## Hastighet
+
+* https://developers.google.com/speed/pagespeed/insights/ - Gjør nettsidene dine raske på alle enheter
+* http://www.webpagetest.org/ - WebPageTest
+* http://www.filamentgroup.com/lab/performance-rwd.html - How we make RWD sites load fast as heck
+* http://www.filamentgroup.com/lab/font-events.html - Font Loading Revisited with Font Events
+* https://jonsuh.com/blog/need-for-speed-2/ - Need for Speed 2: Improving Front-End Performance
+
 ## Inspirasjon
 
 * http://tympanus.net/codrops/category/playground/ - In this category you will find experiments, plugins and articles related to web development and programming.
