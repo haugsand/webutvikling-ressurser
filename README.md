@@ -1,7 +1,7 @@
 # Webutvikling-ressurser
 Nyttige lenker til ressurser om webutvikling
 
-## Ikoner, symboler
+## Graphics - Icons - Symbols
 
 * http://www.sabinanore.com/design/html-special-symbols/
 * http://connoratherton.com/loaders - Delightful and performance-focused pure css loading animations
@@ -10,23 +10,19 @@ Nyttige lenker til ressurser om webutvikling
 * http://www.smashingmagazine.com/2012/11/03/free-glyph-set-entypo-eps-pdf-psd-web-font/ - Extended Entypo Glyph Set
 
 
-## Farger
+## Colors
 
 * http://color.hailpixel.com/ - Color
 * http://colorbrewer2.org/ - ColorBrewer
 
-## Media
 
-* http://www.html5rocks.com/en/tutorials/getusermedia/intro/ - Capturing Audio & Video in HTML5
-
-
-## Animasjoner og transitions
+## Animations - Transitions - Media - Audio - Video
 
 * http://www.greywyvern.com/?post=337 - CSS3 transitions using visibility and delay
 * https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_transitions - Using CSS transitions
+* http://www.html5rocks.com/en/tutorials/getusermedia/intro/ - Capturing Audio & Video in HTML5
 
-
-## Hastighet
+## Performance
 
 * https://developers.google.com/speed/pagespeed/insights/ - Gjør nettsidene dine raske på alle enheter
 * http://www.webpagetest.org/ - WebPageTest
@@ -34,15 +30,17 @@ Nyttige lenker til ressurser om webutvikling
 * http://www.filamentgroup.com/lab/font-events.html - Font Loading Revisited with Font Events
 * https://jonsuh.com/blog/need-for-speed-2/ - Need for Speed 2: Improving Front-End Performance
 
-## Inspirasjon
+## Inspiration
 
 * http://tympanus.net/codrops/category/playground/ - In this category you will find experiments, plugins and articles related to web development and programming.
 * http://www.informationisbeautiful.net/ - Ideas, issues, knowledge, data — visualized!
+* http://collectui.com/
 
 
 ## Design
 
 * https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96 - 7 Rules for Creating Gorgeous UI
+* https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62#.llof9xnfv
 
 
 ## Responsive design
@@ -58,7 +56,7 @@ Nyttige lenker til ressurser om webutvikling
 * http://ionicframework.com/ - The beautiful, open source front-end SDK for developing hybrid mobile apps with HTML5.
 * https://www.sencha.com/products/touch/ - Create native-looking HTML5 apps using JavaScript
 
-## Typografi og fonter
+## Fonts - Typography
 
 * http://typecast.com/blog/a-more-modern-scale-for-web-typography - A More Modern Scale for Web Typography
 * http://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html - 20 Best Web Fonts from Google Web Fonts and @font-face
@@ -105,13 +103,22 @@ Nyttige lenker til ressurser om webutvikling
 * https://signalvnoise.com/posts/3855-37-pieces-of-life-changing-business-advice-youll-have-to-see-to-believe - 37 pieces of life-changing business advice you'll have to see to believe
 * https://www.gov.uk/design-principles - Government Digital Service Design Principles
 
-
-## Prosess
-
-* http://www.smashingmagazine.com/2012/11/06/design-spikes-fit-big-picture-ux-agile-development/ - Fitting Big-Picture UX Into Agile Development
-
-## Verktøy
+## Tools
 
 * https://svbtle.com/ - A blogging platform designed to help you think.
 * http://caniuse.com/ - Can I use ...
 * https://ghost.org/ - Ghost blogging platform
+* https://affinity.serif.com/en-us/ui-design-software/
+
+## CSS - Styleguides - Techniques
+
+* https://kyusuf.com/post/completely-css-custom-checkbox-radio-buttons-and-select-boxes
+
+## Service Workers
+
+* https://bitsofco.de/bitsofcode-pwa-part-1-offline-first-with-service-worker/
+
+
+## UX - Process
+
+* http://www.smashingmagazine.com/2012/11/06/design-spikes-fit-big-picture-ux-agile-development/ - Fitting Big-Picture UX Into Agile Development
